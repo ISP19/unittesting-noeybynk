@@ -10,14 +10,27 @@ def unique(list):
     Examples:
     >>> unique([5])
     [5]
-    >>> unique(["b","a","a","b","b","b","a","a"])
-    ["b","a"]
+    >>> unique(['b','a','a','b','b','b','a','a'])
+    ['b', 'a']
     >>> unique([])
     []
+    >>> unique(['N','n','o','e','N','y'])
+    ['N', 'n', 'o', 'e', 'y']
+    >>> unique([1,1,1,1,1])
+    [1]
+    >>> unique([1,[1,2],3,[1,2]])
+    [1, [1, 2], 3]
     """
-    pass   # remove this and write the actual code
+
+    list2 = []
+    for i in list:
+        if i not in list2:
+            list2.append(i)
+    return list2
 
 if __name__ == "__main__":
     """Run the doctests in all methods."""
     import doctest
     doctest.testmod(verbose=True)
+
+print (unique((1,"2")))
