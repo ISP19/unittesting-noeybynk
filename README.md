@@ -1,6 +1,8 @@
 ## Unit Testing Assignment
 
-by Bill Gates.
+by Boonyanuch Kaewrakrob
+
+DO NOT COPY
 
 
 ## Test Cases for unique
