@@ -1,6 +1,6 @@
 language: Python
 
-Python: "3.7.0"
+Python: "3.6.7"
 
 git:
   branch:
