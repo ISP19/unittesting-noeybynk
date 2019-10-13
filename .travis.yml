@@ -1,6 +1,6 @@
 language: Python
 
-Python: "3.6.7"
+Python: "3.7.0"
 
 git:
   branch:
@@ -8,8 +8,8 @@ git:
       - master
   depth: 50
 
-install:
-  - pip install -r requirements.txt
+# install:
+#   - pip install -r requirements.txt
 
 script:
   - python -m unittest "fraction_test.py"
