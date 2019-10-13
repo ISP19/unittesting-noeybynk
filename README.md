@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.com/noeybynk/unittesting-noeybynk.svg?branch=master)](https://travis-ci.com/noeybynk/unittesting-noeybynk)
 ## Unit Testing Assignment
 
 by Boonyanuch Kaewrakrob
