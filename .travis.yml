@@ -8,11 +8,11 @@ git:
       - master
   depth: 50
 
-install:
-  -pip install codecov
+# install:
+#   -pip install codecov
 
 script:
-  - coverage run fraction_test.py
+  - python -m unittest "fracion_test.py"
 
-after_success:
-  - codecov
+# after_success:
+#   - codecov
