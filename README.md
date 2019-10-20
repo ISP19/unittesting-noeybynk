@@ -1,3 +1,5 @@
+[codecov](https://codecov.io/gh/noeybynk/unittesting-noeybynk/branch/master/graph/badge.svg)](https://codecov.io/gh/noeybynk/unittesting-noeybynk)"
+
 [![Build Status](https://travis-ci.com/noeybynk/unittesting-noeybynk.svg?branch=master)](https://travis-ci.com/noeybynk/unittesting-noeybynk)
 ## Unit Testing Assignment
 
