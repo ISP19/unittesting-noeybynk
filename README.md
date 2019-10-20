@@ -1,4 +1,4 @@
-[codecov](https://codecov.io/gh/noeybynk/unittesting-noeybynk)](https://codecov.io/gh/noeybynk/unittesting-noeybynk)
+[[codecov](https://codecov.io/gh/noeybynk/unittesting-noeybynk)](https://codecov.io/gh/noeybynk/unittesting-noeybynk)
 
 [![Build Status](https://travis-ci.com/noeybynk/unittesting-noeybynk.svg?branch=master)](https://travis-ci.com/noeybynk/unittesting-noeybynk)
 ## Unit Testing Assignment
