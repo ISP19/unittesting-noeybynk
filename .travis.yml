@@ -16,8 +16,8 @@ env:
     - CODECOV_TOKEN=:aad7ceda-e552-4c8c-bd0c-ff15079c255f
     
 script:
-  - python -m unittest "fracion_test.py"
-  # - coverage run fraction_test.py
+  # - python -m unittest "fracion_test.py"
+  - coverage run fraction_test.py
 
 after_success:
   - codecov
